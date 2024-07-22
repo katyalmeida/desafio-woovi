@@ -5,6 +5,7 @@ import Select from 'react-select'
 import Seta from '../../assets/setaVoltar.png'
 import { useNavigate } from 'react-router-dom';
 import Swal from 'sweetalert2';
+import Tes2 from '../../assets/tes2.png'
 
 
 
@@ -218,9 +219,11 @@ function Third() {
                 <H2>15/12/2021 - 08:17</H2></prazo> 
             </ContainerForm>
             <ContainerParcelas>
+
                 <first>
-                    
                     <itens>
+                                                            <img src={Tes2} style={{ width: '40px',position:'absolute', left:'5px' }} />
+
                         <p>1ª entrada no Pix</p>
                       <p>2ª no cartão</p>
                     </itens>

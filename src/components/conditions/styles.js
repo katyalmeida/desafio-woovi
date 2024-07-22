@@ -58,12 +58,18 @@ itens{
  p{
     font-size: 16px;
 font-weight:600;
+margin-bottom: 8px;
  }
   
 }
 itens2{
-      font-size: 16px;
+    p{
+     font-size: 16px;
 font-weight:720;
+margin-bottom: 8px;
+    }
+ 
+
 }
 
 cet{
