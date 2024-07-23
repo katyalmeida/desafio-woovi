@@ -46,7 +46,7 @@ first{
     align-items: center;
     justify-content: center;
     gap:90px;
-    padding: 25px;
+    padding: 20px;
     img{
         width: 337px;
         height: 2px;
@@ -67,6 +67,7 @@ itens2{
      font-size: 16px;
 font-weight:720;
 margin-bottom: 8px;
+
     }
  
 
@@ -78,7 +79,6 @@ cet{
     align-items: center;
     justify-content: center;
     gap:110px;
-    margin-bottom: 10px;
        p{
        font-size :14px ;
     }
@@ -93,7 +93,9 @@ seta{
     display: flex;
     flex-direction: row;
      align-items: center;
-    justify-content: space-between;
+    justify-content: center;
+         gap: 170px;
+
     padding: 25px;
     p{
                font-size :16px ;

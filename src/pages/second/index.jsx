@@ -131,9 +131,12 @@ function Second() {
               <div> <Image src={Qrcode} /></div> 
                 <Button onClick={third}>Clique para copiar QR CODE<img src={Vector} /> </Button>
                <section><H1>Prazo de pagamento:</H1>
-                <H2>15/12/2021 - 08:17</H2></section> 
-            </ContainerImg>
-                                            <img src={Tes} style={{width:'40px',position:'absolute',marginTop:'24px'}}/>
+            <H2>15/12/2021 - 08:17</H2></section> 
+
+
+        </ContainerImg>
+                                                    <img src={Tes} style={{width:'40px',position:'absolute',marginTop:'22px'}}/>
+
 
         <Conditions>
 

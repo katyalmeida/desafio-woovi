@@ -13,9 +13,12 @@ function conditions() {
 <Container>
                
             <ContainerParcelas>
+
                 <first>
-                    
+
+
                     <itens>
+
                         <p>1ª entrada no Pix</p>
                       <p>2ª no cartão</p>
                     </itens>
@@ -42,6 +45,7 @@ function conditions() {
                                                                      <img src={Linha} className='linha3' />
 
 
+                        
                     </seta>
                     <chave>
                         <p>Identificador:</p>
